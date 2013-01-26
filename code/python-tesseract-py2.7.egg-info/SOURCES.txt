@@ -1,0 +1,13 @@
+main_dummy.cpp
+ms_fmemopen.c
+setup.cfg
+setup.py
+tesseract.i
+tesseract.py
+util-fmemopen.cpp
+python.egg-info/PKG-INFO
+python.egg-info/SOURCES.txt
+python.egg-info/dependency_links.txt
+python.egg-info/top_level.txt
+test/test.py
+test/test2.py
